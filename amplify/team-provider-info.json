@@ -1,0 +1,19 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "photoalbums-master-20190910024138-authRole",
+            "UnauthRoleArn": "arn:aws:iam::693409844692:role/photoalbums-master-20190910024138-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::693409844692:role/photoalbums-master-20190910024138-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "photoalbums-master-20190910024138-deployment",
+            "UnauthRoleName": "photoalbums-master-20190910024138-unauthRole",
+            "StackName": "photoalbums-master-20190910024138",
+            "StackId": "arn:aws:cloudformation:us-east-1:693409844692:stack/photoalbums-master-20190910024138/836da9a0-d374-11e9-b5e8-0e6c5fec19cc"
+        },
+        "categories": {
+            "auth": {
+                "photoalbums10647eb3": {}
+            }
+        }
+    }
+}
